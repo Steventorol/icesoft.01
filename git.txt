@@ -1,0 +1,15 @@
+git init
+git add .
+git commit -m "first commit"
+git config user.email"stven-dj@hotmail.es"
+git config user.name"steven"
+git branch -m main
+git remote add origin https://github.com/Steventorol/Exportation_api.git
+rm -rf node_modules
+
+
+Actualizar el repositorio
+git pull
+git add 
+git comit -m "actualizacion de repositorio"
+git push -u origin main
